@@ -1,0 +1,390 @@
+Index;flg_crime;cat_crime
+0;S;Cibercrime
+2;S;Outros
+3;S;Cibercrime
+4;S;Golpe cibernético
+5;S;Fraude
+7;S;Cibercrime
+8;S;Cibercrime
+9;S;Cibercrime
+10;S;Golpe bancário
+11;S;cibercrime
+12;S;Cibercrime
+13;S;cibercrime
+16;S;Outros
+18;S;Cibercrime
+19;S;Cibercrime
+20;S;Outros
+21;S;cibercrime
+22;S;Cibercrime
+23;S;Cibercrime
+25;S;Golpe bancário
+26;S;cibercrime
+27;S;Cibercrime
+28;N;
+29;S;Cibercrime
+31;S;Golpe bancário
+32;S;cibercrime
+33;S;Outros
+34;S;Cibercrime
+36;S;Cibercrime
+37;S;Cibercrime
+38;S;Outros
+39;S;Cibercrime
+40;S;Cibercrime
+41;S;Golpe bancário
+42;S;Cibercrime
+43;S;Cibercrime
+44;S;cibercrime
+45;S;Golpe bancário
+46; S; Cibercrime
+47; S; Outros
+48; S; Golpe bancário
+50;S;Cibercrime
+51;S;Cibercrime
+52;S;Cibercrime
+53; S; Outros
+54;S;Outros
+55;S;Golpe bancário
+56;S;Cibercrime
+57;S;Outros
+59;S;Cibercrime
+61;S;Cibercrime
+62;S;Cibercrime
+63;S;Cibercrime
+64;N;
+65;S;Cibercrime
+68;S;Outros
+70;S;cibercrime
+73;S;Golpe bancário
+77;S;cibercrime
+78;S;Cibercrime
+79;S;Golpe bancário
+81;S;cibercrime
+82;S;Golpe bancário
+83;S;Cibercrime
+84;S;Cibercrime
+85;S;Cibercrime
+86;S;Outros
+87;S;Cibercrime
+88;S;Golpe bancário
+89;S;Outros
+90;S;Fraude
+91;S;Cibercrime
+92;S;Golpe bancário
+94;S;Outros
+95;S;Cibercrime
+96;S;Golpe bancário
+98;S;Outros
+99;S;Golpe bancário
+100;S;Golpe bancário
+101;S;Golpe bancário
+102;S;Golpe bancário
+103; S; Golpe bancário
+105;S;Golpe bancário
+106;S;Outros
+107;S;Golpe bancário
+108;S;Cibercrime
+109;S;Golpe bancário
+113;S;Golpe bancário
+114;S;Golpe bancário
+115;S;Fraude
+116;S;Outros
+119;S;Cibercrime
+120;S;Golpe bancário
+121;S;Golpe bancário
+122;S;Cibercrime
+123; S; Golpe bancário
+124;S;cibercrime
+125;S;Golpe bancário
+129;S;Outros
+130;S;Golpe bancário
+132;N;-
+133;S;Crimel
+134;S;Golpe bancário
+136;S;cibercrime
+137;S;Golpe bancário
+140;S;Fraude
+143;S;Outros
+144; N;
+145;S;Golpe bancário
+146;S;Golpe bancário
+147;S;Golpe bancário
+148;S;Golpe bancário
+149;S;Golpe bancário
+152;S;Fraude
+154;S;Golpe bancário
+155; S; Outros
+157;S;Cibercrime
+158;S;Cibercrime
+159;S;Golpe bancário
+162;S;Golpe bancário
+163;S;cibercrime
+164; N;
+165;S;Golpe bancário
+166;S;Outros
+167;S;Outros
+168;S;Golpe bancário
+169;S;Fraude
+170;S;Fraude
+171;S;Golpe bancário
+172;S;Outros
+174;S;Golpe bancário
+176;S;Golpe bancário
+177;S;Golpe bancário
+178;S;Cibercrime
+179;S;Outros
+181;S;Outros
+183;S;Outros
+184;S;Outros
+185;S;Cibercrime
+187;S;Golpe bancário
+188;S;Outros
+189;S;Fraude
+190;S;Outros
+191;S;Outros
+192;S;Outros
+193;S;Golpe bancário
+194;S;Golpe bancário
+197;S;Cibercrime
+198;S;Fraude
+200;S;Outros
+203;S;Cibercrime
+204;S;Fraude
+205;S;Golpe Bancário
+206;S;Golpe bancário
+207; N;
+209;S;Outros
+210;S;Golpe bancário
+211;S;Golpe bancário
+212;S;Golpe bancário
+213;S;Golpe bancário
+214;S;Outros
+215;S;Golpe bancário
+216;S;Golpe bancário
+217;S;Golpe bancário
+218;S;Golpe bancário
+219;S;Golpe bancário
+220;S;Golpe bancário
+221;S;Outros
+222;S;Outros
+223;S;Outros
+225;S;Outros
+226;S;Outros
+227;S;Golpe bancário
+231;S;Cibercrime
+232;S;Golpe
+233;S;Golpe bancário
+234;S;Golpe bancário
+235;S;Outros
+236;S;Golpe bancário
+237;S;Golpe bancário
+238;S;Golpe bancário
+239;S;Outros
+240;N;
+243;S;Golpe bancário
+244;S;Fraude
+245;S;Golpe Bancário
+246;S;Golpe bancário
+247;S;Golpe bancário
+248;S;Golpe bancário
+249;S;Fraude
+253;S;Cibercrime
+254;S;Outros
+255;S;Golpe bancário
+257;S;Golpe bancário
+258;S;Fraude
+261;S;Golpe
+262;S;Golpe bancário
+263;S;Golpe Bancário
+265;S;Golpe bancário
+266;S;Outros
+267;S;Golpe bancário
+270;S;Golpe bancário
+271;S;Golpe bancário
+272;S;Golpe bancário
+273;S;Outros
+274;S;Golpe bancário
+276;S;Golpe bancário
+277;N;
+278;S;Golpe bancário
+279;S;Cibercrime
+280;S;Cibercrime
+281;S;Golpe bancário
+282;S;Outros
+284;S;Outros
+286;S;Outros
+287;S;Fraude
+288;S;Golpe bancário
+289;S;N
+294;S;Outros
+292;S;Golpe bancário
+293;S;Fraude
+294;S;Outros
+295;S;Fraude
+296; N;
+298;S;Golpe bancário
+300; N;
+302;S;Outros
+303;S;Cibercrime
+305;S;Golpe bancário
+306;S;Outros
+308;S;Cibercrime
+309;S;Fraude
+310;S;Outros
+311;S;Golpe bancário
+312;S;Fraude
+313;S;Golpe bancário
+314;S;Outros
+315;S;Golpe bancário
+316;S;Golpe bancário
+317;S;Golpe bancário
+318;S;Outros
+319;S;Golpe bancário
+322; S; Golpe Bancário
+323;S;Outros
+325;S;Golpe bancário
+326;S;Golpe bancário
+329;S;Golpe bancário
+330;S;Fraude
+333;S;Golpe bancário
+335;S;Golpe bancário
+336;S;Golpe bancário
+337;S;Golpe bancário
+338;S;Golpe bancário
+339;S;Golpe bancário
+341;S;Golpe bancário
+342;S;Outros
+343;S;Outros
+344;S;Outros
+345;S;Golpe bancário
+346;S;Golpe bancário
+347;S;Golpe bancário
+349;S;Outros
+350;S;Golpe bancário
+352;S;Golpe bancário
+353;S;Golpe bancário
+354;S;Cibercrime
+355;S;Golpe bancário
+356;S;Golpe bancário
+357;S;Golpe bancário
+359;S;Outros
+360;S;Golpe bancário
+362;N;
+364;S;Golpe bancário
+365;S;Golpe bancário
+367;S;Golpe bancário
+368;S;Golpe bancário
+369;S;Golpe bancário
+370;S;Golpe bancário
+371;S;Golpe bancário
+373;S;Golpe bancário
+374;S;Outros
+375;S;Golpe bancário
+377;S;Golpe bancário
+378;S;Golpe bancário
+379;S;Golpe bancário
+380;S;Fraude
+381;S;Outros
+382; N;
+383;S;cibercrime
+384;S;Fraude
+385;S;Golpe bancário
+388;S;Golpe bancário
+389;S;Golpe bancário
+392;S;Golpe bancário
+393;S;Outros
+394;S;Fraude
+395;S;Cibercrime
+396;S;Outros
+398;S;Golpe bancário
+399;S;Outros
+400;S;Golpe bancário
+401;S;Golpe bancário
+402;S;Fraude
+404;S;cibercrime
+405;S;Cibercrime
+406;S;Golpe bancário
+408;S;Outros
+409;S;Outros
+410;S;Golpe bancário
+412;S;Outros
+413;S;Outros
+414;S;Outros
+415;S;Outros
+417;S;Outros
+418;S;cibercrime
+419;S;Outros
+422;S;Golpe bancário
+423;S;Outros
+424;S;Golpe bancário
+425;S;Golpe bancário
+426;S;Golpe bancário
+427;S;Golpe bancário
+428;S;Golpe bancário
+429;S;Outros
+430;S;Golpe bancário
+431;S;Golpe bancário
+432;S;Golpe bancário
+433;S;Outros
+434;S;Golpe bancário
+435;N;|
+439;S;Golpe bancário
+441;S;Outros
+445;S;Golpe bancário
+446;S;Outros
+447;S;Outros
+448;S;Outros
+451;S;Golpe bancário
+452;S;Outros
+454;S;estupro
+455;S;Outros
+456;S;Cibercrime
+459;S;Golpe bancário
+460;N;|
+462;S;N
+463;S;Cibercrime
+464;S;Outros
+465;S;Golpe bancário
+467;S;Golpe bancário
+468;S;Golpe bancário
+469; N;
+471;S;Outros
+472;S;Golpe bancário
+473;S;Golpe bancário
+475;S;Golpe bancário
+476;S;Fraude
+477;S;Outros
+478;S;Outros
+479;S;Outros
+480;S;Golpe bancário
+481;S;Outros
+484;S;Golpe bancário
+485;S;Golpe bancário
+486;N;
+487;S;Outros
+488;S;Outros
+489;S;Golpe bancário
+490;S;Outros
+491;S;Golpe bancário
+492;S;Outros
+493;N;
+494;S;Golpe bancário
+495; S; Outros
+496;N;
+497;S;Golpe bancário
+498;S;Golpe bancário
+500;S;Cibercrime
+500;S;Golpe bancário
+502;S;Outros
+503; N;
+504;S;Outros
+506;S;Golpe bancário
+511;S;Outros
+514;N;
+515;S;Outros
+516;S;Outros
+517;N;
+518; S; Fraude
+521;S;Golpe bancário
+522;S;Outros

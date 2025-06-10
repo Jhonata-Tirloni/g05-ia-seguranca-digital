@@ -54,7 +54,7 @@ Para cada texto recebido, retorne exatamente uma linha com as seguintes três co
 Importante:
 * **Não** adicione cabeçalhos, comentários ou explicações extras.
 * **Mantenha a ordem das entradas.**
-* Retorne **somente** os dados classificados no formato solicitado acima.
+* Retorne **somente** os dados classificados no formato solicitado acima, e nas categorias informadas acima.
 * Se não der pra classificar em nenhuma das categorias, não pule, retorne as categorias em branco.
 dados:
 {linhas}
@@ -110,9 +110,8 @@ def pipeline_paralelo(path_csv, path_saida, batch_size=2, n_threads=4):
     return resultados_finais
 
 
-# === 5. Executar ===
 pipeline_paralelo(
-    path_csv="/Users/jhonatatirloni/Desktop/g05-ia-seguranca-digital/src/data/processed/df_list_data_news.csv",
+    path_csv="/Users/jhonatatirloni/Desktop/g05-ia-seguranca-digital/src/data/processed/bronze/df_list_data_reddit_tratado.csv",
     path_saida="/Users/jhonatatirloni/Desktop/g05-ia-seguranca-digital/src/data/stage/",
     batch_size=1,  # seguro para seu M1
     n_threads=2,  # comece com 4, aumente se o uso de CPU permitir
