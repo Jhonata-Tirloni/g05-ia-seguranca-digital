@@ -117,5 +117,5 @@ pipeline_paralelo(
     path_csv=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\processed\bronze\extra_text.csv",
     path_saida=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\stage",
     batch_size=2,  # seguro para seu M1
-    n_threads=4,  # comece com 4, aumente se o uso de CPU permitir
+    n_threads=20,  # comece com 4, aumente se o uso de CPU permitir
 )

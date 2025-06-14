@@ -1,0 +1,173 @@
+index;flg_crime;tipo_crime
+0;S;Golpe da troca de cartão
+1;S;Golpe da troca de cartão
+2;S;Golpe da troca de cartão
+3;S;Golpe da troca de cartão
+4;S;Golpe da troca de cartão
+5;S;Golpe da troca de cartão
+6;S;Golpe da troca de cartão
+7;S;Golpe da troca de cartão
+8;S;Golpe da troca de cartão
+9;S;Golpe da troca de cartão
+10;S;Golpe da troca de cartão
+11;S;Golpe falsa central
+12;S;Golpe do Cartão Clonado
+13;S;Golpe do Cartão Clonado
+14;S;Golpe da troca de cartão
+15;S;Golpe do PIX
+16;S;Golpe da troca de cartão
+17;S;Golpe do Cartão Clonado
+18;S;Golpe falsa central
+19;S;Golpe do PIX
+20;S;Golpe da troca de cartão
+21;S;Golpe da troca de cartão
+22;S;Golpe do Cartão Clonado
+23;S;Golpe do Cartão Clonado
+24;S;Golpe do Cartão Clonado
+25;S;Golpe do Cartão Clonado
+26;S;Golpe falsa central
+27;S;Golpe do Cartão Clonado
+28;S;Golpe da troca de cartão
+29;S;Golpe do PIX
+30;S;Golpe do Cartão Clonado
+31;S;Golpe do Cartão Clonado
+32;S;Golpe do Cartão Clonado
+33;S;Golpe falsa central
+34;S;Golpe do Cartão Clonado
+35;S;Golpe do Cartão Clonado
+36;S;Golpe do Cartão Clonado
+37;S;Golpe falsa central
+38;S;Golpe falsa central
+39;S;Golpe falsa central
+40;S;Golpe falsa central
+41;S;Golpe do Cartão Clonado
+42;S;Golpe do Cartão Clonado
+43;S;Golpe do Cartão Clonado
+44;S;Golpe falsa central
+45;S;Golpe do Cartão Clonado
+46;S;Golpe do Cartão Clonado
+47;S;Golpe do Cartão Clonado
+48;S;Golpe da troca de cartão
+49;S;Golpe falsa central
+50;S;Golpe do Cartão Clonado
+51;S;Golpe do Cartão Clonado
+52;S;Golpe do Cartão Clonado
+53;S;Golpe no whatsapp
+54;S;
+55;S;Golpe do Cartão Clonado
+56;S;Golpe no whatsapp
+57;S;Golpe no whatsapp
+58;S;Golpe no whatsapp
+59;S;Golpe no whatsapp
+60;S;Golpe no whatsapp
+61;S;Golpe no whatsapp
+62;S;Golpe no whatsapp
+63;S;Golpe falsa central
+64;S;Golpe falsa central
+65;S;Golpe falsa central
+66;S;Golpe falsa central
+67;S;Golpe falsa central
+68;S;Golpe falsa central
+69;S;Golpe falsa central
+70;S;Golpe falsa central
+71;S;Golpe falsa central
+72;S;Golpe falsa central
+73;S;Golpe falsa central
+74;N;
+75;S;Golpe falsa central
+76;S;Golpe do PIX
+77;S;Golpe falsa central
+78;S;Golpe falsa central
+79;S;Golpe falsa central
+80;S;Golpe do PIX
+81;S;Golpe do PIX
+82;S;Golpe do PIX
+83;S;Golpe do PIX
+84;S;Golpe falsa central
+85;S;Golpe do PIX
+86;S;Golpe falsa central
+87;S;Golpe falsa central
+88;S;Golpe do CPF
+89;S;Golpe do CPF
+90;S;Golpe do CPF
+91;S;
+92;S;Golpe no whatsapp
+93;S;Golpe do PIX
+94;S;Golpe falsa central
+95;S;Golpe da troca de cartão
+96;S;Golpe do PIX
+97;S;Golpe falsa central
+98;S;
+99;S;Golpe do CPF
+100;S;Golpe falsa central
+101;S;Golpe do PIX
+102;S;Golpe do PIX
+103;S;Golpe do PIX
+104;N;
+105;S;Golpe do PIX
+106;S;Golpe do PIX
+107;S;Golpe no whatsapp
+108;S;Golpe do PIX
+109;S;Golpe do PIX
+110;S;Golpe do PIX
+111;S;Golpe do PIX
+112;S;Golpe do PIX
+113;S;Golpe do PIX
+114;S;Golpe do PIX
+115;S;Golpe do PIX
+116;S;Golpe do PIX
+117;S;Golpe do PIX
+118;S;Golpe do PIX
+119;S;Golpe do PIX
+120;S;Golpe do CPF
+121;S;Golpe do CPF
+122;S;Golpe do CPF
+123;S;Golpe do CPF
+124;N;
+125;N;
+126;S;Golpe do PIX
+127;S;Golpe do PIX
+128;N;
+129;S;Golpe do PIX
+130;S;Golpe da troca de cartão
+131;S;Golpe do Cartão Clonado
+132;N;
+133;S;Golpe do Cartão Clonado
+134;S;Golpe do Cartão Clonado
+135;S;Golpe do PIX
+136;S;Golpe no whatsapp
+137;S;Golpe do CPF
+138;S;Golpe do PIX
+139;S;Golpe no whatsapp
+140;S;Golpe do PIX
+141;S;Golpe do PIX
+142;S;Golpe no whatsapp
+143;S;Golpe do Cartão Clonado
+144;S;Golpe do PIX
+145;N;
+146;S;Golpe do PIX
+147;N;
+148;S;Golpe no whatsapp
+149;S;Golpe no whatsapp
+150;S;Golpe no whatsapp
+151;S;Golpe no whatsapp
+152;S;Golpe no whatsapp
+153;N;
+154;S;Golpe no whatsapp
+155;N;
+156;S;Golpe no whatsapp
+157;S;Golpe no whatsapp
+158;S;Golpe do Cartão Clonado
+159;S;Golpe do PIX
+160;S;Golpe do PIX
+161;S;Golpe do CPF
+162;S;Golpe do CPF
+163;S;Golpe da troca de cartão
+164;S;Golpe da troca de cartão
+165;S;Golpe falsa central
+166;S;Golpe da troca de cartão
+167;S;Golpe do Cartão Clonado
+168;S;Golpe do PIX
+169;S;Golpe do Cartão Clonado
+170;S;Golpe falsa central
+171;S;Golpe do Cartão Clonado
