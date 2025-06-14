@@ -9,10 +9,10 @@ def send_to_model(prompt_text):
     url = "http://localhost:3000/api/chat/completions"
     headers = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU0Y2I2NmNiLWFmZDYtNDQ5My1iNzIwLTI5NDFmMTQ3NDQyMiJ9.RaG4W4gqxRdUhmUTfYplTKNDnRhzjosTG18X_46m7T4",  # substitua pelo seu token
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI2NGExZTkyLWViNGEtNDNiNC1hZjJlLTA3ZDQ4ODZmYmIyYyJ9.8NTqGLaQMSGvJAWoLCiehMaZH277LXuE7MVMd1kmaB4",  # substitua pelo seu token
     }
     payload = {
-        "model": "llama3:instruct",
+        "model": "deepseek-r1:8b",
         "messages": [{"role": "user", "content": prompt_text}],
         "temperature": 0,
         "top_p": 1,
@@ -33,16 +33,18 @@ def build_prompt(batch_df):
     return f"""
 Classifique os seguintes textos conforme instruções abaixo.
 Cada texto segue o formato, com duas colunas separadas por pipe (|): 
-<index>|<texto>
+<index>|<text>
 
 Instruções:
 1. Identificar se o texto descreve um **crime ocorrido** (responda com S para sim, ou N para não).
 2. Se for um crime ocorrido (S), classificar o tipo de crime em uma das seguintes categorias:
 
-* Cibercrime: ataques virtuais, invasões, vazamento de dados.
-* Fraude: uso enganoso de identidade, falsificações.
-* Golpe bancário: enganos relacionados a bancos, boletos falsos, links de phishing.
-* Outros: crimes que não se encaixam nas categorias acima.
+*Golpe da troca de cartão;
+*Golpe do Cartão Clonado;
+*Golpe no whatsapp;
+*Golpe falsa central;
+*Golpe do PIX;
+*Golpe do CPF;
 
 Para cada texto recebido, retorne exatamente uma linha com as seguintes três colunas, separadas por ponto e vírgula (;):
 <index do texto original>;flg_golpe;tipo
@@ -112,8 +114,8 @@ def pipeline_paralelo(path_csv, path_saida, batch_size=2, n_threads=4):
 
 # === 5. Executar ===
 pipeline_paralelo(
-    path_csv="/Users/jhonatatirloni/Desktop/g05-ia-seguranca-digital/src/data/processed/df_list_data_news.csv",
-    path_saida="/Users/jhonatatirloni/Desktop/g05-ia-seguranca-digital/src/data/stage/",
-    batch_size=1,  # seguro para seu M1
-    n_threads=2,  # comece com 4, aumente se o uso de CPU permitir
+    path_csv=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\processed\bronze\extra_text.csv",
+    path_saida=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\stage",
+    batch_size=2,  # seguro para seu M1
+    n_threads=4,  # comece com 4, aumente se o uso de CPU permitir
 )
