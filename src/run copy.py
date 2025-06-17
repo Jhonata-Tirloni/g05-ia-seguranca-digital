@@ -6,17 +6,21 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # === 1. Envio para o modelo ===
 def send_to_model(prompt_text):
-    url = "http://localhost:11434/api/generate"
+    url = "http://localhost:3000/api/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI2NGExZTkyLWViNGEtNDNiNC1hZjJlLTA3ZDQ4ODZmYmIyYyJ9.8NTqGLaQMSGvJAWoLCiehMaZH277LXuE7MVMd1kmaB4",  # substitua pelo seu token
+    }
     payload = {
-        "model": "llama3:instruct",
-        "prompt": prompt_text,
+        "model": "ollama3:instruct",
+        "messages": [{"role": "user", "content": prompt_text}],
         "temperature": 0,
         "top_p": 1,
-        "max_tokens": 2060,
+        "max_tokens": 100000,
         "stream": False,
     }
     try:
-        response = requests.post(url, json=payload, timeout=999999)
+        response = requests.post(url, headers=headers, json=payload, timeout=999999)
         return response.json()
     except Exception as e:
         print("Erro de requisição:", e)
@@ -32,27 +36,31 @@ Cada texto segue o formato, com duas colunas separadas por pipe (|):
 <index>|<text>
 
 Instruções:
-1. Identificar se o texto descreve um crime ocorrido (responda com S para sim, ou N para não).
+1. Identificar se o texto descreve um **crime ocorrido** (responda com S para sim, ou N para não).
 2. Se for um crime ocorrido (S), classificar o tipo de crime em uma das seguintes categorias:
 
-* Cibercrime bancário: Golpes e fraudes digitais contra clientes de bancos, visando roubo de dinheiro. Exemplo: Golpe do PIX, golpe do WhatsApp, golpe da falsa central, cartão clonado, troca de cartão, phishing bancário. 
-* Outros Cibercrimes: Todos os outros crimes digitais que não envolvem golpe ou fraude contra cliente bancário. Exemplo: Fraude em benefícios, roubo de identidade fora do contexto bancário, ransomware, DDoS, discurso de ódio, lavagem de dinheiro, fraude em seguros.
+* Cybercrime
+* Fraude
+* Golpe bancário
+* Outros
+onde:
+* Cibercrime: ataques virtuais, invasões, vazamento de dados.
+* Fraude: uso enganoso de identidade, falsificações.
+* Golpe bancário: enganos relacionados a bancos, boletos falsos, links de phishing.
+* Outros: crimes que não se encaixam nas categorias acima.
 
 Para cada texto recebido, retorne exatamente uma linha com as seguintes três colunas, separadas por ponto e vírgula (;):
-
-                
 <index do texto original>;flg_golpe;tipo
 
-
-* Substitua <index do texto original> pelo numero da linha do texto que está classificando.
+* Substitua <index do texto original> pelo número da linha do texto que está classificando.
 * flg_golpe: S se for um crime ocorrido, N caso contrário.
 * tipo: uma das quatro categorias acima, ou deixe em branco se flg_golpe = N.
 
 Importante:
-
-* Não adicione cabeçalhos, comentários ou explicações extras.
-* Mantenha a ordem das entradas.
-* Retorne somente os dados classificados.
+* **Não** adicione cabeçalhos, comentários ou explicações extras.
+* **Mantenha a ordem das entradas.**
+* Retorne **somente** os dados classificados no formato solicitado acima.
+* Se não der pra classificar em nenhuma das categorias, não pule, retorne as categorias em branco.
 dados:
 {linhas}
 """.strip()
@@ -64,9 +72,9 @@ def processar_lote(lote_df):
     resposta = send_to_model(prompt)
     resultados = []
 
-    if resposta and "response" in resposta:
+    if resposta and "choices" in resposta:
         try:
-            conteudo = resposta["response"]
+            conteudo = resposta["choices"][0]["message"]["content"]
             linhas = conteudo.strip().split("\n")
             for linha in linhas:
                 partes = linha.strip().split(";")
@@ -74,8 +82,6 @@ def processar_lote(lote_df):
                     resultados.append(partes)
         except Exception as e:
             print("Erro ao processar resposta:", e)
-    else:
-        print("⚠️ Resposta inesperada ou vazia:", resposta)
 
     return resultados
 
@@ -111,7 +117,7 @@ def pipeline_paralelo(path_csv, path_saida, batch_size=2, n_threads=4):
 
 # === 5. Executar ===
 pipeline_paralelo(
-    path_csv=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\processed\bronze\df_text_news.csv",
+    path_csv=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\processed\bronze\extra_text.csv",
     path_saida=r"C:\Users\jhont\Desktop\g05-ia-seguranca-digital\src\data\stage",
     batch_size=2,  # seguro para seu M1
     n_threads=20,  # comece com 4, aumente se o uso de CPU permitir

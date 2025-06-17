@@ -1,0 +1,173 @@
+index;flg_crime;cat_crime
+0;S;Fraude
+1;S;Fraude
+2;S;Fraude
+3;S;Fraude
+4;S;Fraude
+5;S;Fraude
+6;S;Fraude
+7;S;Fraude
+8;S;Fraude
+9;S;Fraude
+10;S;Fraude
+11;S;Golpe bancário
+12;S;Fraude
+13;S;Fraude
+14;S;Fraude
+15;S;Fraude
+16;S;Golpe bancário
+17;S;Golpe bancário
+18;S;Golpe bancário
+19;S;Golpe bancário
+20;S;Fraude
+21;S;Fraude
+22;S;Golpe bancário
+23;S;Golpe bancário
+24;S;Fraude
+25;S;Fraude
+26;S;Golpe bancário
+27;S;Golpe bancário
+28;S;Fraude
+29;S;Golpe bancário
+30;S;Cybercrime
+31;S;Fraude
+32;S;Golpe bancário
+33;S;Golpe bancário
+34;S;Cybercrime
+35;S;Fraude
+36;S;Fraude
+37;S;Golpe bancário
+38;S;Golpe bancário
+39;S;Golpe bancário
+40;S;Golpe bancário
+41;S;Cybercrime
+42;S;Fraude
+43;S;Fraude
+44;S;Golpe bancário
+45;S;Fraude
+46;S;Fraude
+47;S;Fraude
+48;S;Fraude
+49;S;Golpe bancário
+50;S;Fraude
+51;S;Fraude
+52;S;Fraude
+53;S;Cybercrime
+54;S;Outros
+55;S;Fraude
+56;S;Cybercrime
+57;S;Cybercrime
+58;S;Cybercrime
+59;S;Cybercrime
+60;S;Cybercrime
+61;S;Fraude
+62;S;Fraude
+63;S;Fraude
+64;S;Fraude
+65;S;Golpe bancário
+66;S;Golpe bancário
+67;S;Golpe bancário
+68;S;Golpe bancário
+69;S;Golpe bancário
+70;S;Golpe bancário
+71;S;Cybercrime
+72;S;Golpe bancário
+73;S;Golpe bancário
+74;S;Cybercrime
+75;S;Golpe bancário
+76;S;Fraude
+77;S;Golpe bancário
+78;S;Golpe bancário
+79;S;Golpe bancário
+80;S;Fraude
+81;S;Fraude
+82;S;Fraude
+83;S;Fraude
+84;S;Golpe bancário
+85;S;Fraude
+86;S;Cybercrime
+87;S;Golpe bancário
+88;S;Fraude
+89;S;Fraude
+90;S;Fraude
+91;S;Fraude
+92;S;Cybercrime
+93;S;Fraude
+94;S;Golpe bancário
+95;S;Fraude
+96;S;Fraude
+97;S;Golpe bancário
+98;S;Fraude
+99;S;Fraude
+100;N;
+101;S;Cybercrime
+102;S;Fraude
+103;S;Fraude
+104;S;Golpe bancário
+105;S;Fraude
+106;S;Cybercrime
+107;S;Cybercrime
+108;S;Fraude
+109;S;Golpe bancário
+110;S;Fraude
+111;S;Golpe bancário
+112;S;Fraude
+113;S;Fraude
+114;S;Fraude
+115;S;Fraude
+116;S;Cybercrime
+117;S;Fraude
+118;S;Fraude
+119;S;Golpe bancário
+120;S;Fraude
+121;S;Fraude
+122;S;Fraude
+123;S;Fraude
+124;S;Outros
+125;S;Outros
+126;S;Golpe bancário
+127;S;Fraude
+128;S;Outros
+129;S;Golpe bancário
+130;S;Fraude
+131;S;Cybercrime
+132;N;
+133;S;Fraude
+134;S;Fraude
+135;S;Fraude
+136;S;Cybercrime
+137;S;Golpe bancário
+138;S;Cybercrime
+139;S;Cybercrime
+140;S;Golpe bancário
+141;S;Fraude
+142;S;Cybercrime
+143;S;Fraude
+144;S;Cybercrime
+145;N;
+146;S;Golpe bancário
+147;N;
+148;S;Fraude
+149;S;Cybercrime
+150;S;Fraude
+151;S;Cybercrime
+152;S;Cybercrime
+153;N;
+154;S;Cybercrime
+155;N;
+156;S;Cybercrime
+157;S;Fraude
+158;S;Fraude
+159;S;Golpe bancário
+160;S;Cybercrime
+161;S;Fraude
+162;S;Fraude
+163;S;Fraude
+164;S;Golpe bancário
+165;S;Golpe bancário
+166;S;Golpe bancário
+167;S;Outros
+168;S;Fraude
+169;S;Fraude
+170;S;Golpe bancário
+171;S;Fraude
