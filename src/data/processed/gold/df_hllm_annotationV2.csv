@@ -1,0 +1,357 @@
+index|quem|o_que|quando|onde|por_que|como|cibercrime|tipo
+0|vítima: autor do relato " golpista: vendedor de carro e falsificado ""amigo""|golpe de venda de carro com falsificação de identidade e pressão por compra|ontem|marketplace e WhatsApp|vítima demonstrou interesse em negócio suspeito|golpista se passou por amigo da vítima e simulou avaliação do veículo"|S|outros cibercrimes
+1|vítima: autor do relato " golpista: ""gerente"" da pizzaria|golpe de reserva falsa com solicitação de pagamento antecipado|dia dos namorados|WhatsApp (canal oficial clonado)|canal oficial clonado e urgência criada|golpista direcionou vítima para número alternativo e pediu pagamento"|S|outros cibercrimes
+2|vítima: autor do relato|ligações suspeitas com desconexão automática|recentemente|smartphone (chamadas)|possível exploração de vulnerabilidade em sistema|ligações desconectadas automaticamente |S|outros cibercrimes
+3|vítima: familiar do autor  golpista: empresa falsa|cadastro de CPF vazado em chave Pix|recentemente|sistema bancário (Pix)|dados vazados cadastrados como chave Pix|golpistas criaram empresa falsa para receber transferências|S|cibercrime bancario
+4|vítima: autor do relato|golpe de devolução com troca de produto|após entrega|Enjoei e e-mail|vítima não pode comprovar conteúdo enviado|compradora falsificou solicitação de devolução |S|outros cibercrimes
+5|vítima: autor do relato|ligações suspeitas com identificação falsa|duas ocasiões recentes|telefone (chamadas)|número parecia legítimo (mesma cidade)|ligações de números desconhecidos |N|
+6|vítima: autor do relato|site falso de transportadora com dados vazados|recentemente|site falso (melhorentrega.com)|dados vazados (nome, endereço)|site clonado com informações pessoais da vítima |S|outros cibercrimes
+7|vítima: autor do relato  golpista: lojas falsas no Instagram|anúncios de celulares com preços abaixo do mercado|recentemente|Instagram (lojas falsas)|preços baixos e justificativas convincentes|lojas falsas com CNPJ inconsistente e endereços inválidos|S|outros cibercrimes
+8||||||
+9|vítima: autor do relato " golpista: loja ""Mundo Dreams""|venda de produtos falsos da Disney|recentemente|site falso (Mundo Dreams)|uso de marca famosa e preços baixos|loja falsa com imagens possivelmente geradas por IA"|S|outros cibercrimes
+10|vítima: autor do relato|golpe de instalação falsa de internet|recentemente|Instagram e WhatsApp|empresa falsa com perfil incompleto|coleta de endereço sem conclusão do serviço |S|outros cibercrimes
+11||||||
+12|vítima: autor do relato  golpista: traficante falso|extorsão via Telegram após tentativa de compra ilegal|recentemente|Grindr e Telegram|medo da vítima (atividade ilegal)|falsos comprovantes e ameaças de exposição|S|outros cibercrimes
+13|vítima: autor do relato|produto defeituoso (cooler)|após entrega|site de compras|dificuldade de comprovar defeito|produto não funcionou ao chegar |N|
+14|vítima: autor do relato|possível golpe no Mercado Livre|recentemente|Marketplace e Mercado Livre|interesse em método de pagamento seguro|comprador insistiu em usar plataforma específica |S|outros cibercrimes
+15|vítima: autor do relato|ameaça de vazamento de vídeo íntimo|recentemente|e-mail (conta comprometida)|acesso não autorizado à conta|e-mail enviado pela própria vítima com ameaça |S|outros cibercrimes
+16|vítima: autor do relato|mensagens diárias de golpistas|recentemente|WhatsApp ou SMS|número vazado ou exposto|contato persistente de golpistas |S|outros cibercrimes
+17|vítima: autor do relato|mensagens de estranhos e SMS de apostas|recentemente|Telegram e WhatsApp|vazamento de número de telefone|contatos desconhecidos se passando por conhecidos |S|outros cibercrimes
+18|vítima: autor do relato|compra de placa de vídeo com risco de golpe|próximo sábado|encontro presencial|dificuldade de verificar funcionamento do produto|venda sem garantia de teste |N|
+19|vítima: autor do relato  golpista: vendedor emocional|venda com histórias falsas para comover|frequente no local de trabalho|rua (abordagem presencial)|uso de histórias emocionais|vendedores insistentes com produtos irrelevantes|N|
+20|vítima: tia do autor|transferência sob coerção|dois dias atrás|WhatsApp ou chamada|vulnerabilidade por idade|ameaças e criação de urgência |S|outros cibercrimes
+21||||||
+22|vítima: autor do relato|acesso não autorizado a contas|recentemente|YouTube e e-mail|possível vazamento de credenciais|invasor pesquisou conteúdos específicos |S|outros cibercrimes
+23|vítima: autor do relato|tentativa de golpe do PIX|recentemente|Nubank (app)|dúvida sobre processo de reembolso|solicitação de PIX reverso suspeita |S|cibercrime bancario
+24|vítima: conhecida do autor|golpe da taxa da alfândega|recentemente|e-mail falso|urgência e aparência oficial|link falso para pagamento via PIX |S|cibercrime bancario
+25||||||
+26|vítima: autor do relato|venda com confirmação de pagamento|recentemente|presencial ou plataforma|confiança na confirmação de saldo|combinação de entrega após verificação |N|
+27|vítima: pai do autor|investimento falso em criptomoedas|recentemente|MEW Wallet e DApp|promessa de rendimento alto|site suspeito com documentos falsos |S|outros cibercrimes
+28|vítima: esposa do autor|e-mail falso sobre bloqueio de CPF|recentemente|e-mail|aparência oficial|comunicação falsa de suposto bloqueio |S|outros cibercrimes
+29|vítima: autor do relato|roubo de celular e acesso a redes sociais|01/06|Recife (centro) e Instagram|celular desbloqueado após roubo|assaltantes acessaram Instagram rapidamente |S|outros cibercrimes
+30|vítima: autor do relato|urgência suspeita em negociação|recentemente|presencial ou online|pressão por confiança|criação de falsa urgência |N|
+32|vítima: autor do relato  golpista: falsos consultores do PicPay|tentativa de contratação de empréstimo não solicitado|recentemente|ligação telefônica e notificações falsas|clonagem de comunicação oficial|simulação de empréstimo via notificação falsa|S|cibercrime bancario
+33|vítima: autor do relato|compra de PS5 com possível golpe no Mercado Pago|pretendida|Mercado Pago|promessa de segurança falsa|pagamento antecipado sem garantia real |S|outros cibercrimes
+34|vítima: sogra do autor|golpe de interferência em instalação de internet|hoje|ligações falsas|informações vazadas do contrato|contato fraudulento com oferta de serviço alternativo |S|outros cibercrimes
+35|vítima: autor do relato|cobrança de dívida inexistente|recorrente|mensagens e ligações|uso de dados desatualizados|persistência em contatos fraudulentos |S|outros cibercrimes
+36||||||
+37|vítima: autor do relato|oferta falsa de direito trabalhista|recentemente|contato telefônico/email|exploração de desconhecimento jurídico|promessa de benefício inexistente |S|outros cibercrimes
+38||||||
+39|vítima: autor do relato|cobrança por consulta a dados pessoais|recentemente|plataforma desconhecida|exploração de curiosidade|monetização ilegal de informações |S|outros cibercrimes
+40|vítima: autor do relato  golpista: perfil falso no Telegram|golpe do amor/sequestro virtual|recentemente|Telegram e WhatsApp|perfil fake com história elaborada|coleta de dados pessoais e contato persistente|S|outros cibercrimes
+41||||||
+42|vítima: autor do relato|golpe da taxa alfandegária falsa|recentemente|e-mail de spam|aproveitamento de compra internacional|comunicação falsa com link malicioso |S|outros cibercrimes
+43|vítima: autor do relato|problema com cancelamento de CNPJ|recentemente|sistema online|burocracia explorada|dificuldade em resolver situação |N|
+44||||||
+45|vítima: autor do relato|rastreio falso de encomenda|recentemente|site falso|vazamento de dados de transporte|geração de PIX para empresa fantasma |S|outros cibercrimes
+46|vítima: autor do relato|contratação em site falso da Claro|recentemente|site clonado|semelhança com página oficial|coleta de dados bancários |S|cibercrime bancario
+47|vítima: autor do relato|ameaça de vazamento de vídeo íntimo|alguns dias atrás|e-mail institucional|exploração de medo|comunicação falsa sem prova |S|outros cibercrimes
+48|vítima: avó do autor  golpista: falsos médicos|golpe de remédio milagroso|recentemente|WhatsApp e correio|exploração de vulnerabilidade emocional|ameaças jurídicas falsas|S|outros cibercrimes
+49|vítima: autor do relato|oferta de produto com preço suspeito|recentemente|Netshoes/Magalu|diferença de preço inexplicável|risco de produto falsificado |N|
+50|vítima: autor do relato|leilão com preço abaixo do mercado|pretendido|Facebook e presencial|oferta ""boa demais""|pagamento adiantado sem garantia" |N|
+51|vítima: autor do relato|criação não autorizada de conta|recentemente|Mercado Pago (e-mail)|possível vazamento de dados|comunicação suspeita com link |S|outros cibercrimes
+52|vítima: autor do relato|tarefa online com pagamento real|recentemente|plataforma desconhecida|isca para golpes maiores|pagamento inicial como chamariz |S|outros cibercrimes
+53|vítima: autor do relato|mensagens indesejadas persistentes|diariamente|WhatsApp/SMS|vazamento de número|contatos recorrentes de números novos |S|outros cibercrimes
+54|vítima: autor do relato|spam persistente|constante|e-mail|ineficácia de bloqueio|remetentes diversos |S|outros cibercrimes
+55|vítima: autor do relato|anúncios não moderados|constante|plataforma de vendas|falta de fiscalização|persistência de anúncios suspeitos |N|
+56|vítima: autor do relato|perfis falsos em redes sociais|recentemente|Instagram|uso de imagens genéricas|contas claramente falsas |N|
+57|vítima: autor do relato|compra de videogame com risco|pretendida|OLX (presencial)|dificuldade de verificação|encontro sem garantias |N|
+58||||||
+59|vítima: autor do relato|golpe do frete grátis|recentemente|Instagram (anúncio)|promoção ""boa demais""|cobranças progressivas após frete" |N|
+60|vítima: autor do relato|cursos gratuitos como isca|constante|WhatsApp (grupos)|captura de dados pessoais|venda posterior de serviços |S|outros cibercrimes
+61|vítima: autor do relato|compra de videogame com risco|pretendida|OLX (presencial)|dificuldade de verificação|encontro sem garantias |N|
+62|vítima: autor do relato|mensagem com dados pessoais|recentemente|canal desconhecido|vazamento de informações|tentativa de extorsão |S|outros cibercrimes
+63|vítima: autor do relato|contato suspeito com estranhos|recentemente|redes sociais|abordagem incomum|risco de golpe não especificado |S|outros cibercrimes
+64|vítima: autor do relato|compra com risco de não entrega|pretendida|OLX (PIX)|falta de garantia|pagamento antecipado sem proteção |N|
+65|vítima: autor do relato|compra em site não confiável|recentemente|link compartilhado|falta de verificação|risco de dados/fraude |S|outros cibercrimes
+66|vítima: autor do relato|domínios criativos para golpes|recentemente|sites falsos|engano por semelhança com marcas|URLs enganosas |S|outros cibercrimes
+67|vítima: autor do relato|transação suspeita em GBP (R$0,00)|recentemente|cartão físico/digital|possível clonagem|transação não autorizada |S|cibercrime bancario
+68|vítima: autor do relato|saque não autorizado na Caixa|recentemente|SMS|confusão com conta inativa|comunicação falsa |S|cibercrime bancario
+69|vítima: autor do relato|golpe com informação geográfica falsa|recentemente|canal desconhecido|erro proposital|detalhe incongruente |S|outros cibercrimes
+70|vítima: autor do relato " golpista: ""Elen""|tentativa de contrato forjado|hoje|ligação telefônica|pressão e áudio ruim|coleta de voz/dados"|N|
+71|vítima: autor do relato|ligações falsas com número similar|recentemente|WhatsApp|máscara de número|possível clonagem |S|outros cibercrimes
+72|vítima: autor do relato|golpe do suporte falso do Google|recentemente|ligação empresarial|dados vazados|link malicioso |S|outros cibercrimes
+73|vítima: mãe do autor|golpe da encomenda falsa|esta semana|WhatsApp|informações incorretas|abordagem suspeita |S|outros cibercrimes
+74|vítima: autor do relato|oferta de emprego falsa|recentemente|OLX e WhatsApp|promessa de ganhos altos|trabalho sem garantia |S|outros cibercrimes
+75|vítima: autor do relato|golpe do boleto falso|recentemente|ligação telefônica|dados bancários vazados|SAC falso |S|cibercrime bancario
+76|vítima: autor do relato|perfil suspeito no LinkedIn|recentemente|e-mail e LinkedIn|erros de ortografia|história genérica |S|outros cibercrimes
+77|vítima: autor do relato|visita técnica falsa da Vivo|recentemente|WhatsApp|informações vazadas|contato persistente |S|outros cibercrimes
+78|vítima: autor do relato|golpe do entregador de comida|recentemente|iFood|falha no sistema|pedido não entregue |S|outros cibercrimes
+79|vítima: esposa do autor|mensagens de cobrança falsas|recorrente|SMS/WhatsApp|erros no nome|tentativa de golpe |S|outros cibercrimes
+80|vítima: autor do relato|compra não entregue na OLX|recentemente|OLX e WhatsApp|exclusão de conta|selo falso de postagem |S|outros cibercrimes
+81|vítima: autor do relato|dicas de segurança digital|N/A|N/A|N/A|N/A |N|
+82|vítima: mãe do autor|oferta falsa de redução de fatura|recentemente|ligação telefônica|dados vazados|contato persistente |S|cibercrime bancario
+83|vítima: amiga do autor|site falso do Mercado Livre|hoje|URL falsa (MLIVRE10)|preço baixo|redirecionamento direto para compra |S|outros cibercrimes
+84||||||
+85|vítima: avó do autor|golpes recorrentes por credulidade|constante|vários meios|idade/vulnerabilidade|falta de filtro |N|
+86|vítima: autor do relato|código de verificação não solicitado|recentemente|e-mail (Ragnarok)|possível teste de conta|tentativa de acesso |S|outros cibercrimes
+87|vítima: autor do relato|prints de perfil suspeito|recentemente|Instagram|conteúdo de prevenção|N/A |N|
+88|vítima: autor do relato|perfis falsos no Telegram|recentemente|Telegram|bots de mensagens|oferta de conteúdo adulto |N|
+89|vítima: autor do relato|spam de formulários falsos|meses|e-mail|disfarce de instituições|phishing persistente |S|outros cibercrimes
+90|vítima: mãe do autor|ligação suspeita do Google Maps|recentemente|ligação telefônica|dados de negócio|possível golpe |S|outros cibercrimes
+91|vítima: autor do relato|taxa alfandegária falsa|recentemente|site falso|compra nacional|cobrança indevida |S|outros cibercrimes
+92|vítima: autor do relato|golpe da taxa de importação|recentemente|Enjoei e WhatsApp|produto inexistente|pedido de pagamento adicional |S|outros cibercrimes
+93|vítima: autor do relato|extorsão com nudes|recentemente|Telegram|dados vazados|ameaça de exposição |S|outros cibercrimes
+94|vítima: autor do relato|chantagem com montagem falsa|recentemente|canal desconhecido|dados pessoais|BO registrado |S|outros cibercrimes
+95|vítima: autor do relato|oferta de investimento suspeito|recentemente|serviço de mineração|promessa de lucro|empresa não verificada |S|outros cibercrimes
+96|vítima: autor do relato|golpe do turista|hoje|ligação telefônica|abordagem inicial legítima|resposta humorística |N|
+97|vítima: autor do relato|mensagem de cobrança falsa|recentemente|WhatsApp|nome correto|ameaça de bloqueio |S|outros cibercrimes
+98|vítima: autor do relato|ligação automática sobre compra falsa|recorrente|ligação telefônica|alerta falso|golpe da central |S|cibercrime bacario
+99||||||
+100|vítima: irmão do autor|compra não autorizada na Magalu|ontem|conta comprometida|endereço real|cartão não identificado |S|outros cibercrimes
+101|vítima: autor do relato|e-mail com nome errado|hoje|e-mail|dados incorretos|possível phishing |S|outros cibercrimes
+102|vítima: autor do relato|mensagem suspeita do nada|recentemente|canal desconhecido|conteúdo aleatório|risco não claro |N|
+103|vítima: autor do relato|produtos não solicitados|últimas semanas|Shopee|comprometimento de conta|envios misteriosos |S|outros cibercrimes
+104|vítima: autor do relato|anúncio de produto gratuito|recentemente|redes sociais|dublagem por IA|isca para golpe
+105|vítima: autor do relato|oferta de plataforma de estudos|recentemente|Meta (Facebook)|preço baixo|conteúdo duvidoso |N|
+106|vítima: autor do relato|redirecionamento para sites falsos|recentemente|Google Feed|aparência legítima|fraude em cadeia |S|outros cibercrimes
+107|vítima: autor do relato|golpe de emprego falso|recentemente|Facebook Ads|contrato falso|cobrança por serviços |S|outros cibercrimes
+108|vítima: autor do relato|mensagem padrão de golpista|recentemente|plataforma de vendas|abordagem genérica|risco de fraude |S|outros cibercrimes
+109|vítima: autor do relato|preço suspeito de violão|recentemente|loja online|diferença de valor|empresa não confiável |S|outros cibercrimes
+110|vítima: autor do relato|e-mails de cobrança antigos|diariamente|e-mail|CNPJ antigo|spam persistente |S|outros cibercrimes
+111|vítima: autor do relato|exemplo de golpe assustador|N/A|N/A|N/A|N/A |N|
+112|vítima: autor do relato|venda de produtos caros|pretendida|OLX|risco de golpe|preocupação com segurança |N|
+113|vítima: autor do relato|e-mail suspeito no spam|recentemente|caixa de spam|aparência de banco|phishing |S|cibercrime bancario
+114|vítima: autor do relato|atendimento bancário suspeito|recentemente|ligação oficial|solicitação de ID|procedimento incomum |S|cibercrime bancario
+115|vítima: autor do relato|clonagem de cartão na Azul|recentemente|compras não autorizadas|falha de segurança|problema com reembolso |S|cibercrime bancario
+116|vítima: autor do relato|mensagem sobre encomenda|recentemente|WhatsApp|dados corretos|risco de golpe |S|outros cibercrimes
+117|vítima: autor do relato|ligação não realizada|recentemente|WhatsApp|número mascarado|tentativa de contato |N|
+118|vítima: autor do relato|grupo do WhatsApp suspeito|recentemente|WhatsApp|adicionado sem consentimento|conteúdo fraudulento |S|outros cibercrimes
+119|vítima: autor do relato|anúncio de guitarra barata|recentemente|OLX|preço abaixo do mercado|entrega restrita |N|
+120|vítima: autor do relato|golpes consecutivos|hoje|Instagram e outros|perfis falsos|links maliciosos |S|outros cibercrimes
+121|vítima: autor do relato  golpista: frentista do posto|abastecimento incorreto (5L vs 42L)|recentemente|posto de gasolina|erro ou má-fé na bomba|contato insistente por WhatsApp|N|
+122|vítima: autor do relato|produto sem embalagem original|recentemente|Amazon Brasil|descasamento entre anúncio e produto|entrega direta sem caixa |N|
+123|vítima: autor do relato|dicas de segurança digital|N/A|N/A|N/A|N/A |N|
+124|vítima: autor do relato|mensagens indesejadas de clínicas|recorrente|WhatsApp/SMS|vazamento de dados|contato persistente |N|
+126|vítima: autor do relato  golpista: perfil fake no Facebook|tentativa de golpe via comentário|recentemente|Facebook (How Ridiculous)|perfil fake com logo oficial|pedido de foto pessoal|S|outros cibercrimes
+127|vítima: autor do relato|PIX não solicitados da SuitPay|recentemente|conta bancária|origem desconhecida|ausência de contato |S|cibercrime bancario
+128|vítima: autor do relato|medo de golpe na OLX Pay|pretendido|OLX|paranoia pós-experiência|dúvidas sobre garantia |N|
+129|vítima: autor do relato|golpe envolvendo animal|N/A|N/A|N/A|N/A |N|
+130|vítima: autor do relato|golpes com acompanhantes|N/A|plataformas online|dificuldade de verificação|risco de perfis falsos |S|outros cibercrimes
+131|vítima: autor do relato|golpe de migração para o Canadá|recentemente|site CanAmMigrate|pressão por pagamento|entrevista falsa |S|outros cibercrimes
+132|vítima: autor do relato|PIX não autorizado via Sant Bank|recentemente|Nubank PJ|instituição suspeita|falta de garantia de reembolso |S|cibercrime bancario
+133|vítima: autor do relato|tentativa de portabilidade|recentemente|operadora telefônica|roubo de número|fraude de identidade |S|outros cibercrimes
+134|vítima: autor do relato|alerta de golpe no PIX|recentemente|Enjoei|URL suspeita|risco de pagamento fraudulento |S|cibercrime bancario
+135|vítima: autor do relato|loja suspeita no Instagram|recentemente|Seja Velvet|desproporção seguidores/curtidas|pagamento sem cadastro |S|outros cibercrimes
+136|vítima: pai do autor|golpe de ""imposto"" para liberar valor|recentemente|aplicativo desconhecido|promessa de ganho fácil|pedido de adiantamento" |S|cibercrime bancario
+137|vítima: autor do relato|ligação suspeita para WhatsApp|recentemente|telefone/WhatsApp|abordagem genérica|risco não claro |N|
+138|vítima: autor do relato|isca de golpe hilária|N/A|N/A|N/A|N/A |N|
+139|vítima: autor do relato|golpe de apostas esportivas|recentemente|Esportiva Bet|conta de terceiros|motivação financeira obscura |S|outros cibercrimes
+140|vítima: autor do relato|mensagem bizarra de golpista|recentemente|WhatsApp|personagem mantido|intenção desconhecida |S|outros cibercrimes
+141|vítima: autor do relato|compras não autorizadas|recentemente|cartão de crédito|vazamento em massa|LRECOMDIGITALLTDA |S|cibercrime bancario
+142|vítima: amigo do autor|golpe da OLX Pay com motoboy|recentemente|OLX/WhatsApp|prints falsos|falsa confirmação de pagamento |S|cibercrime bancario
+143|vítima: autor do relato|perfil fake no Tinder|recentemente|Tinder/WhatsApp|foto roubada|urgência para encontro |S|outros cibercrimes
+144|vítima: autor do relato|vazamento de dados pessoais|recentemente|ligação fraudulenta|BO feito|tentativa de acesso a contas |S|outros cibercrimes
+145|vítima: autor do relato|spam de casas de aposta|diariamente|SMS/WhatsApp|ineficácia de bloqueio|links persistentes |S|outros cibercrimes
+146|vítima: autor do relato|golpe de bolsa de estudos|recentemente|Go Idiomas/AB BRASIL LTDA|pressão para compra|material caro |S|outros cibercrimes
+147|vítima: autor do relato|e-mail falso da Polícia Civil|recentemente|e-mail|link malicioso|.exe infectado |S|outros cibercrimes
+148|vítima: autor do relato|risco de golpe na OLX|pretendido|OLX|envio interestadual|possível chargeback |S|outros cibercrimes
+149|vítima: autor do relato|golpe de pós-graduação|recentemente|ligação telefônica|pressão para matrícula|Grupo Monark |N|
+150|vítima: autor do relato|golpe entre operadoras|recentemente|Claro/TIM|venda cruzada|aumento fictício |S|outros cibercrimes
+151|vítima: autor do relato|vagas falsas com taxas|recentemente|redes sociais/telefone|ausência de entrevista real|cobrança de ""taxinha""" |S|outros cibercrimes
+152|vítima: autor do relato|phishing com boleto falsificado|4-5 anos atrás|e-mail/documento|dados legítimos|quase queda em fraude |S|outros cibercrimes
+153|vítima: mãe do autor|golpe de aniversário falso|recentemente|mensagem/ligação|exploração emocional|narrativa de loja física |S|outros cibercrimes
+154||||||
+155|vítima: autor do relato|golpe de emprego falso|recentemente|site clonado da Vivo|pagamento para ""equipamento""|loop de PIX" |S|outros cibercrimes
+156|vítima: autor do relato|perfis fake no Facebook|constante|Facebook|aparência convincente|diversos tipos de golpe |N|
+157|vítima: autor do relato|perfil fake com foto asiática|recentemente|redes sociais|nome genérico|risco não especificado |N|
+158|vítima: autor do relato|anúncio suspeito de queijos|recentemente|YouTube|urgência/desconto|produto duvidoso |N|
+159||||||
+160|vítima: autor do relato|chatbot golpista|recentemente|aplicativos de mensagem|automação|transição para humano? |S|outros cibercrimes
+161|vítima: autor do relato|risco com chave PIX|recentemente|Mercado Livre|empresa falsa da QCY|solicitação de chave |N|
+162|vítima: autor do relato|ligações silenciosas|recorrente|telefone|coleta de voz?|tática desconhecida |N|
+163|vítima: autor do relato|risco de devolução fraudulenta|pretendido|OLX Pay|troca por item inferior|""tijolo"" no lugar" |N|
+164|vítima: autor do relato|golpe do PagBank|recentemente|redes sociais/telefone|phishing bancário|links maliciosos |S|cibercrime bancario
+165|vítima: autor do relato|PIX não solicitado|ontem|conta bancária|erro ou golpe?|origem desconhecida |S|cibercrime bancario
+166|vítima: autor do relato|arquivo .doc malicioso|recentemente|e-mail/mensagem|vírus em documento|não aberto |S|outros cibercrimes
+167|vítima: autor do relato|golpe do GamePass barato|recentemente|Telegram/Mercado Livre|pagamento via PIX|desaparecimento |S|outros cibercrimes
+168|vítima: autor do relato|match suspeito no Tinder|hoje|Tinder/WhatsApp|migração rápida|risco não claro |N|
+169|vítima: autor do relato|phishing do Booking|recentemente|e-mail do hotel|conta invadida|link falso para cartão |S|outros cibercrimes
+170|vítima: autor do relato|risco em compra de notebook|pretendido|Marketplace|produtos caros|golpes variados |N|
+171|vítima: autor do relato|golpe de valor irrisório|N/A|N/A|N/A|N/A |N|
+172||||||
+173|vítima: autor do relato|e-mail suspeito no spam|recentemente|caixa de spam|remetente estranho|phishing? |N|
+174|vítima: autor do relato|pedido de fotos de dentes|recentemente|Telegram|estudante falso|motivação obscura |N|
+175|vítima: autor do relato|golpe do investimento|1 semana atrás|Tinder/WhatsApp|insistência em cripto|mudança de perfil |S|outros cibercrimes
+176||||||
+177|vítima: autor do relato|cobrança de talão de cheque|recentemente|documento/ligação|lei inventada|ausência no Serasa |S|outros cibercrimes
+178|vítima: autor do relato|ligações silenciosas|recorrente|telefone|DDD igual|desligamento rápido |N|
+179|vítima: autor do relato|mensagem de vaga falsa|recentemente|SMS/WhatsApp|currículo não enviado|dados incorretos |S|outros cibercrimes
+180|vítima: autor do relato|comentário cômico|N/A|N/A|N/A|N/A
+181|vítima: autor do relato|golpe do sequestro falso|semana passada|WhatsApp|áudio manipulado|inconsistências na história |N|
+182|vítima: mãe do autor|ligações do BMG|+1 ano|telefone|cartão não solicitado|persistência |N|
+183|vítima: autor do relato|compra de moto suspeita|recentemente|OLX|comprador para terceiro|loja real? |S|outros cibercrimes
+184|vítima: autor do relato|oferta por username|1 mês atrás|Telegram|compra de perfil|método desconhecido |S|outros cibercrimes
+185|vítima: autor do relato|compras com cartão clonado|recentemente|Lupo/DrogariasSP|cadastro com dados reais|entrega no golpista |S|cibercrime bancario
+186|vítima: autor do relato|processo contra Meta|andamento|Facebook/WhatsApp|negação de dados|decisão judicial |N|
+187|vítima: autor do relato|e-mail do FBI falso|recentemente|e-mail|indenização falsa|golpe internacional |S|outros cibercrimes
+188|vítima: autor do relato|consoles sem imposto|recentemente|OLX/Marketplace|preço abaixo|galpão fictício |S|outros cibercrimes
+189|vítima: avó do autor|golpe do prêmio|recentemente|site falso|taxa para receber|valor reduzido |S|outros cibercrimes
+190|vítima: autor do relato|e-mails falsos no trabalho|constante|e-mail corporativo|phishing|resistência de colegas |S|outros cibercrimes
+191|vítima: autor do relato|mensagem estranha no FB|recentemente|Facebook Direct|abordagem incomum|método desconhecido |S|outros cibercrimes
+192|vítima: autor do relato|golpe do aluguel|recentemente|anúncios online|herdeiro fictício|caução antecipada |S|outros cibercrimes
+193|vítima: autor do relato|vazamento por MEI|recorrente|e-mail|phishing pós-vazamento|dados expostos |S|outros cibercrimes
+194|vítima: autor do relato|golpe do PayPal|recentemente|transação internacional|bloqueio falso|depósito adicional |S|cibercrime bancario
+195|vítima: autor do relato|reunião em hotel|recentemente|curso grátis|local suspeito|risco não claro |N|
+196|vítima: autor do relato|grupos de golpe no Telegram|recentemente|Telegram|coleta de PIX|bots e perfis falsos |N|
+197|vítima: autor do relato|troca de Xbox suspeita|pretendido|Marketplace|oferta ""boa demais""|golpe do Enjoei" |N|
+198|vítima: pai do autor|golpe da ""taxa de residência""|ontem|telefone|ameaças do CV|PIX sob coerção" |S|outros cibercrimes
+199|vítima: autor do relato|compra não reconhecida|recentemente|cartão clonado|local inconsistente|fraude |S|cibercrime bancario
+200||||||N|
+201|vítima: autor do relato|SMS suspeito|recentemente|mensagem de texto|endereço desconhecido|link perigoso? |S|outros cibercrimes
+202|vítima: autor do relato|phishing da Receita|19/05|e-mail da EGS Sistemas|site falso do Gov|roubo de dados |S|outros cibercrimes
+203|vítima: autor do relato|motorista de má-fé|19/05|Uber|rota alterada|cobrança extra |N|
+204|vítima: autor do relato|golpe com baixa probabilidade|recentemente|canal desconhecido|esperança de ganho|risco alto |N|
+205|vítima: pai do autor|ligação sobre compra falsa|recentemente|telefone|alerta de valor alto|pedido de cartão |S|cibercrime bancario
+206|vítima: autor do relato|oferta de investimento irreal|recentemente|redes sociais|promessa exagerada|esquema duvidoso |S|outros cibercrimes
+207|vítima: autor do relato|golpe da ""benção financeira""|recentemente|Instagram/Telegram|pedido de PayPal|método desconhecido" |S|outros cibercrimes
+208|vítima: irmã do autor|ameaça de traficante|recentemente|ligação telefônica|dados pessoais|sem pedido de dinheiro |N|
+209|vítima: autor do relato|pedido de tradução suspeito|recentemente|canal desconhecido|valor/prazo absurdos|intenção obscura |N|
+210|vítima: autor do relato|golpe com notas falsas|quarta-feira|OLX (presencial)|pressa na transação|impacto emocional grave |N|
+211|vítima: autor do relato|bloqueio após contato|recentemente|redes sociais|serviço não solicitado|motivação desconhecida |N|
+212|vítima: autor do relato|pedido de cancelamento|recentemente|Amazon/WhatsApp|loja solicitando ação|envio não disponível |N|
+213|vítima: autor do relato|risco com carteira cripto|recentemente|YouTube|exposição de chaves|possível roubo |S|outros cibercrimes
+214|vítima: mãe do autor|golpe em app de live|recentemente|Kako Live|compra de coins|similar a Tigrinho |S|outros cibercrimes
+215|vítima: autor do relato|contatos estrangeiros|recorrente|mensagens|perguntas genéricas|intenção desconhecida |N|
+216|vítima: pai do colega|ameaça com vídeo armado|recentemente|áudio/WhatsApp|cobrança de ""calção""|risco real ou golpe" |N|
+217|vítima: autor do relato|golpe recorrente|recentemente|canal desconhecido|persistência|método não especificado |N|
+218|vítima: autor do relato|proposta de compra OLX|recorrente|OLX|PIX + Uber|risco de golpe |S|cibercrime bancario
+219|vítima: irmão do autor|golpe por link|recentemente|OLX/e-mail|acesso à conta bancária|roubo via PIX |S|cibercrime bancario
+220|vítima: autor do relato|coleta de IMEI|recentemente|loja Samsung|""bater metas""|risco de clonagem" |S|outros cibercrimes
+221|vítima: autor do relato|golpe do troco|meses atrás|supermercado|notas trocadas|confusão calculada |N|
+222|vítima: autor do relato|reserva suspeita no Airbnb|recentemente|Airbnb|hóspede inconsistente|documentos falsos |S|outros cibercrimes
+223|vítima: autor do relato|golpe de sushi delivery|recentemente|Instagram|perfis recentes|PIX obrigatório |N|
+224|vítima: autor do relato|vazamento de número|recentemente|grupos de golpistas|contatos indesejados|risco não especificado |N|
+225|vítima: autor do relato|ameaça de entregador|recentemente|Shopee|produto não entregue|intimidação |N|
+226|vítima: autor do relato|dúvida sobre envio OLX|pretendido|OLX|entrega presencial vs correio|perda de garantia |N|
+227|vítima: autor do relato|compras não autorizadas|recentemente|loja online|endereços reais|esquema complexo |S|cibercrime bancario
+228|vítima: autor do relato|tentativa de golpe|recentemente|canal desconhecido|fraude óbvia|rejeição |N|
+229|vítima: autor do relato|anúncio suspeito|recentemente|plataforma desconhecida|aparência fraudulenta|risco alto |S|outros cibercrimes
+230|vítima: autor do relato|golpe da ""bolsa de leitura""|recentemente|telefone corporativo|dados bancários vazados|falha grave" |S|cibercrime bancario
+231|vítima: autor do relato|e-mail para cadastros|N/A|N/A|prevenção de spam|N/A |N|
+232|vítima: autor do relato|golpe freelance|recentemente|Behance/WhatsApp|taxa de transferência|empresa falsa |S|outros cibercrimes
+233|vítima: autor do relato|e-mail em japonês|recentemente|spam|companhia de gás falsa|phishing incomum |N|
+234|vítima: autor do relato|golpe de alfândega|recentemente|e-mail/spam|retenção de produto|vazamento de dados? |S|outros cibercrimes
+235|vítima: autor do relato|contato após cadastro|recentemente|Porto/Allianz|venda agressiva|risco de dados |N|
+236|vítima: autor do relato|mensagem traduzida|recentemente|canal desconhecido|texto genérico|golpe internacional |N|
+237|vítima: autor do relato|golpe do ""investigador""|recentemente|ligação familiar|pagamento por provas|ameaça implícita" |S|outros cibercrimes
+238|vítima: autor do relato|comprador suspeito|recentemente|OLX|interesse em desconto|narrativa inconsistente |N|
+239|vítima: autor do relato|golpe clássico|N/A|N/A|tática conhecida|N/A |N|
+240|vítima: namorado do autor|tendência a golpes|recorrente|vários meios|falta de desconfiança|risco constante |N|
+241|vítima: autor do relato|golpe em brechó|recentemente|Instagram|pagamento parcelado|desaparecimento |N|
+242|vítima: autor do relato|ligações diárias|constante|telefone|golpes variados|ineficácia de bloqueio |S|outros cibercrimes
+243|vítima: mãe do autor|e-mail de desconto|recentemente|e-mail|empresa inexistente|assinatura fraudulenta |S|outros cibercrimes
+244|vítima: autor do relato|ligações de benefícios|recorrente|telefone|dados vazados|pedido de cartão |S|outros cibercrimes
+245|vítima: autor do relato|venda de carro|pretendido|Carteira Digital DT|transferência digital|risco de fraude |N|
+246|vítima: autor do relato|ameaça de cafetina|recentemente|mensagem|dados vazados|extorsão |S|outros cibercrimes
+247|vítima: autor do relato|e-mail da Quero Quitar|recentemente|e-mail|débito inexistente|phishing ou cobrança |S|outros cibercrimes
+248|vítima: autor do relato|spams persistentes|constante|e-mail|tentativas falhas|N/A |N|
+249|vítima: autor do relato|cartão não reconhecido|recentemente|Nubank|empresa desconhecida|risco baixo |S|cibercrime bancario
+250|vítima: autor do relato|depósito não identificado|recentemente|Caixa Econômica|seguro-desemprego|sem golpe |S|cibercrime bancario
+251||||||
+252|a tia da pessoa|golpistas acessaram o WhatsApp da tia e enviaram mensagens pedindo dinheiro aos contatos, usando áudios com a voz da tia|pouco antes de começar as mensagens|WhatsApp|golpista gravou a voz da tia durante uma ligação falsa|golpista ligou fingindo ser da secretaria da Cultura, gravou a voz da tia e usou para enganar os contatos|S|outros cibercrimes
+253|homem de 24 anos|foi preso por criar páginas falsas com deepfake de Marcos Mion prometendo descontos no Outback|segunda fase da operação Voice Over, iniciada em janeiro|Instagram e site clone|uso de deepfake e promoção falsa|golpe usava link no Instagram para site clone onde vítimas eram enganadas a enviar Pix |S|cibercrime bancario
+254||||||
+255|namorado da pessoa|motoboy alegou entrega de encomenda não recebida|hoje de tarde|endereço residencial||motoboy mostrou foto do portão e insistiu que encomenda foi assinada por ""Maria""|N|
+256|pessoa em processo de habilitação|autoescola solicitou senha do Gov.br|hoje|grupo da autoescola no WhatsApp||mensagem no grupo pedindo senha do Gov.br para agendamento |S|outros cibercrimes
+257|pessoa que doou dinheiro|golpista alegou que Pix puxava dados e tentou extorquir mais dinheiro|depois da doação inicial|WhatsApp||golpista ameaçou vazar dados após receber Pix de 15 reais |S|cibercrime bancario
+258||||||
+259|vendedor do relógio|comprador quer pagar via Pix e enviar motoboy, mas recusa método seguro da OLX||OLX||comprador insiste em envio por Sedex 10 após combinar entrega em local errado |S|outros cibercrimes
+260||||||
+261||||||
+262|mãe da pessoa|compra em site falso de queijos|após a compra|site ""Queijo de Minas Gerais""|preços baixos e site não verificado|site pede muitos dados pessoais para cancelamento|S|outros cibercrimes
+263||||||
+264||||||
+265|mãe da pessoa|dados da conta gov.br foram alterados por golpistas||gov.br|brecha no sistema|golpistas alteraram senha e e-mail sem necessidade de reconhecimento facial |S|outros cibercrimes
+266||||||
+267|empresa onde a pessoa trabalha|número de telefone da empresa foi alterado no Google sem autorização||Google|brecha no sistema|golpistas alteraram número no Google para desviar ligações |S|outros cibercrimes
+268||||||
+269|comprador na OLX|golpista anuncia produto em vários estados e recusa método seguro da OLX||OLX||golpista combina entrega em local errado e insiste em Sedex 10 |S|outros cibercrimes
+270|vendedor do teclado|comprador pede fotos, vídeos e número de série do teclado||OLX||comprador alega que quer verificar autenticidade do produto|N|
+271||||||
+272||||||
+273|pessoa que depositou dinheiro|cadastro em site falso de cassino usando deepfake|sábado|site falso da UP bet|promoção falsa de dobra de banca|golpe usou link enviado em grupo de cassino no Telegram |S|outros cibercrimes
+274|pessoa que comprou em leilão|compra em site falso de leilão de celular||site de leilão no Google Notícias||pagamento realizado sem entrega do produto |S|outros cibercrimes
+275|mulher que recebeu ligação|ligação de número privado com abordagem inadequada|enquanto trabalhava|ligação telefônica||homem fez comentários inapropriados e desligou após resposta grossa|N|
+276||||||
+277|cliente do Uber Mercado|entregador substituiu itens por ""Aaa"" e aprovou sem consentimento|hoje de tarde|Uber Mercado||entregador alterou itens do pedido e justificou com erro no sistema|N|
+278||||||
+279||||||
+280||||||
+281||||||
+282||||||
+283||||||
+284||||||
+285||||||
+286||||||
+287||||||
+288||||||
+289|pessoa que emprestou celular|homem usou celular para ligar para contato salvo como ""namorada""|hoje|shopping||homem fingiu ligar para namorada, mas contato não era dela|N|
+290||||||
+291||||||
+292||||||
+293||||||
+294||||||
+295||||||
+296||||||
+297||||||
+298||||||
+299||||||
+300||||||
+301||||||
+302|pessoa que pediu conta no Privacy|alguém pedindo para criar conta no Privacy e perguntando se tem R$20|||pedido suspeito de criação de conta e solicitação de dinheiro|N|
+303|vendedor da placa de vídeo|comprador no Mercado Livre pode alegar defeito na placa para devolução|hoje|Mercado Livre||comprador fez compra e enviou mensagens suspeitas após a confirmação|N|
+304|comprador do PS4|status da entrega está como ""Pendente"" na OLX|desde 5/5|OLX||vendedor enviou produto, mas status não foi atualizado|N|
+305|cliente do iFood|entregadores não entregam pedidos e alegam tentativa de golpe|desde Abril|iFood||entregadores não tocam interfone e deixam pedido sem entrega|N|
+306|pessoa que recebeu e-mail|e-mail suspeito sobre importação com link malicioso||e-mail||mensagem não solicitada com link suspeito |S|outros cibercrimes
+307|comprador do carro|carro com número de motor irregular e documento inconsistente|após uma semana da venda|||vendedor original não resolve problema do motor|N|
+308|cliente da XP|vazamento de dados da XP expôs informações financeiras||XP|falha de segurança da corretora|dados vazados incluíam saldos de contas |S|cibercrime bancario
+309|compradora da mochila|loja online sumiu após compra no Mercado Shops|mês passado|site da papelaria|site duplicado ou golpe|links da compra não funcionam mais |S|outros cibercrimes
+310|pessoa que recebeu mensagem|mensagem falsa sobre taxação de importação|||dados pessoais vazados|golpista usou nome e endereço da vítima |S|outros cibercrimes
+311|cliente do Itaú|SMS sobre compra negada que não consta no app||Itaú||mensagem suspeita fora do horário de atividade |S|cibercrime bancario
+312|cliente do iFood|entregador alega assalto e pede Pix para reembolso||iFood/WhatsApp||golpe usando situação de emergência falsa |S|outros cibercrimes
+313|pessoa que recebeu mensagem|mensagem falsa sobre taxação com CNPJ verificado||WhatsApp|dados vazados|golpista usou informações pessoais |S|outros cibercrimes
+314|amigo que recebeu Pix|Pix de valor alto alegando engano|||possível golpe de Pix agendado|golpista pede devolução de valor não confirmado |S|cibercrime bancario
+315||||||
+316||||||
+317|pessoa abordada no restaurante|homem alega que vítima tirou foto e pede para ver celular||bairro de alto padrão||tentativa de roubo com desculpa falsa|N|
+318|cliente da Caixa|descontos mensais de R$0,05 na conta|últimos 5 anos|Caixa Tem||possível cobrança indevida em massa|N|
+319|vendedor da HQ|comprador quer negociar entrega diretamente|||opção suspeita de entrega fora da plataforma|N|
+320||||||
+321|compradora no Mercado Livre|e-mail suspeito sobre entrega não realizada||Mercado Livre||mensagem não relacionada ao e-mail da conta |S|outros cibercrimes
+322|cliente do iFood|entregador pede Pix após alegar assalto||iFood/WhatsApp||golpe usando situação falsa de emergência |S|outros cibercrimes
+323|cliente da Oi Fibra|golpistas recolheram equipamento antes do agendamento|26/04|Oi Fibra|vazamento de dados|contato falso confirmou retirada antecipada |S|outros cibercrimes
+324|pessoa que viu anúncio|ingressos com limite falso e pagamento apenas por Pix||Facebook|anúncio sem comentários|site suspeito com urgência artificial |S|outros cibercrimes
+325|pessoa que recebeu mensagem|mensagem sobre Pix não recebido pedindo devolução|||golpe com apelo emocional|golpista usa informações limitadas |S|cibercrime bancario
+326|comprador online|loja com preços baixos e avaliações suspeitas||site de compras|avaliações possivelmente forjadas|diferença gritante de preços |S|outros cibercrimes
+327||||||
+328||||||
+329|cliente de energia elétrica|ligação suspeita pedindo dados pessoais||telefone|dados vazados|golpista usou informações corretas para ganhar confiança |S|outros cibercrimes
+330|namorada da pessoa|golpe de concurso falso do INSS||site falso|página clonada do G1/INSS|pagamento de taxa e imposto inexistentes |S|outros cibercrimes
+331|mãe da pessoa|golpe de ""missões"" com promessa de reembolso||TikTok/WhatsApp|promessa de ganho fácil|vítima enviou grandes quantias sem retorno|S|outros cibercrimes
+332|pessoa que recebeu Pix|Pix não solicitado de empresa desconhecida||||possível golpe ou erro de transferência |S|cibercrime bancario
+333|empresa desenvolvedora de softwares de segurança cibernética ESET, público brasileiro|malwares bancários (trojans, worms, backdoor), prejuízos não especificados|três primeiros meses de 2025|sistemas infectados, internet|vulnerabilidades em softwares, usuários que baixam arquivos duvidosos|malwares se disfarçam de programas legítimos, capturam telas, emulam teclado/mouse, baixam outros arquivos maliciosos, manipulam tráfego, se replicam, exploram vulnerabilidades conhecidas |S|outros cibercrimes
+334|adolescentes, grupo suspeito utilizando plataformas digitais|práticas de automutilação, suicídio, planejamento de ataques a escolas, escravização virtual|nesta quinta-feira (19)|plataformas digitais|coação de adolescentes, exploração de vulnerabilidades emocionais|utilização de plataformas digitais para coagir e compartilhar conteúdos íntimos, esquemas de escravização virtual |N|
+335|vítimas de abuso sexual e pornografia infantil, usuários do Telegram no Brasil|comercialização e compartilhamento de imagens de abuso sexual e pornografia infantil|nesta semana (data não especificada)|Telegram (grupos, canais e comunidades)|falta de moderação efetiva, uso de criptomoedas e fintechs internacionais para pagamentos|grupos no Telegram compartilham e vendem conteúdo criminoso, moderadores e IA insuficientes para coibir totalmente a prática |N|
+336|vítimas de fraude no reconhecimento facial, golpistas cibernéticos|fraude no reconhecimento facial para desvio de valores, prejuízo de R$ 251 mil|nesta sexta-feira (18)|instituições financeiras (sistemas de reconhecimento facial)|vulnerabilidade no sistema de reconhecimento facial|golpistas usaram fotos dos rostos das vítimas (""bonecos"") para burlar o reconhecimento facial" |S|cibercrime bancario
+337|homens ao redor da Ásia (Taiwan, Cingapura, Índia), golpistas usando deepfake|golpe amoroso com deepfake, prejuízo de US$ 46 milhões|na segunda-feira (14)|plataforma falsa de criptomoeda, chamadas de vídeo com deepfake|vítimas enganadas por identidades falsas e intimidade construída online|uso de deepfake em vídeo/áudio, criação de plataforma falsa de criptomoeda, manipulação emocional das vítimas   |S|outros cibercrimes
+338|vítimas de crimes cibernéticos no Amazonas|estelionato, invasão de dispositivo informático, ameaça, falsa identidade|entre janeiro e agosto de 2024|dispositivos informáticos, internet|aumento da vulnerabilidade digital, falta de conscientização|técnicas variadas de golpes online, como phishing, invasão de sistemas e falsificação de identidade |S|outros cibercrimes
+339|moradores do estado da região Norte (Pará), 32 suspeitos presos|falsos leilões de veículos, golpes em plataformas de vendas, clonagem de WhatsApp, crimes contra vulneráveis|não especificado (durante a Operação Guardião)|redes sociais, plataformas de vendas, WhatsApp|vulnerabilidade dos usuários em transações online, falta de verificação em plataformas|replicação de sites legítimos, falsificação de anúncios, invasão de contas, clonagem de WhatsApp   |S|outros cibercrimes
+340|Hasan Rabee (repatriado de Gaza), autores das ameaças|ameaças de execução, injúria racial, difamação, calúnia|desde o retorno ao Brasil (quarta-feira, 15)|redes sociais|polarização política, preconceito contra palestinos|mensagens de ódio e ameaças via redes sociais, associação indevida a conflitos políticos |S|outros cibercrimes
+341|Ministério da Justiça e Segurança Pública, plataformas de redes sociais e streaming|criação de programa contra crimes cibernéticos infantojuvenis, recebimento de denúncias|nesta segunda-feira (16)|site ""De boa na rede"", redes sociais, serviços de streaming|exposição de crianças e adolescentes a conteúdos nocivos na internet|ferramentas de controle parental, tutoriais de monitoramento, parceria com empresas de tecnologia  " |N|
+342|vítimas de fraudes cibernéticas, FBI e agências europeias|desmantelamento de rede de computadores hackeados, apreensão de US$ 8 milhões em criptomoedas|na terça-feira (29)|botnet Qakbot, computadores infectados globalmente|vulnerabilidades em sistemas exploradas por malware|uso de Qakbot para ransomware, remoção de malware por autoridades, recompensa por informações sobre hackers |S|cibercrime bancario
+343|vítimas de violência contra mulheres no Rio de Janeiro|25% dos casos de violência contra mulheres ocorreram no ambiente virtual|entre janeiro e agosto deste ano|ambiente virtual (redes sociais, mensagens, etc.)|vulnerabilidade de mulheres a abusos online|violência digital, incluindo assédio, ameaças e difamação   |S|outros cibercrimes
+344|crianças e adolescentes, pais/responsáveis|lançamento de ferramenta de monitoramento parental no Discord|hoje (12)|plataforma Discord|exposição de menores a conteúdos criminosos e extremistas|Central da Família monitora interações sem acessar mensagens privadas |N|
+345|vítimas de abuso sexual infantojuvenil, Polícia Federal|armazenamento e compartilhamento de arquivos de abuso sexual infantojuvenil, 106 prisões|entre 1º de janeiro e a primeira semana de maio deste ano|aplicativos de mensagens, redes sociais, celulares|vulnerabilidade de crianças e adolescentes a exploração online|operações policiais com base em denúncias de provedores como Facebook, Instagram, WhatsApp, etc. |S|outros cibercrimes
+347|vítimas do serviço Atomic Wallet, hackers norte-coreanos|roubo de pelo menos US$ 35 milhões em criptomoedas|na terça-feira (6)|serviço de criptomoedas Atomic Wallet|vulnerabilidades no serviço de criptomoedas|hackers usaram técnicas de lavagem de dinheiro e ferramentas associadas à Coreia do Norte |S|cibercrime bancario
+348|pacientes e funcionários do Idaho Falls Community Hospital, hackers (possivelmente ransomware)|ataque cibernético afetando sistemas hospitalares, desvio de ambulâncias|na segunda-feira (29)|Idaho Falls Community Hospital e Mountain View Hospital|sistemas hospitalares vulneráveis a ciberataques|ataque possivelmente envolvendo ransomware, forçando uso de registros em papel |S|outros cibercrimes
+349|famílias e memória de Marília Mendonça e Gabriel Diniz, André Felipe de Souza Alves Pereira|divulgação de fotos dos corpos, crimes de ódio (nazismo, racismo, xenofobia), incitação à violência escolar|entre junho de 2022 e abril de 2023|redes sociais (Twitter, etc.)|discurso de ódio e exploração de tragédias para disseminar terror|publicação de conteúdo ofensivo, uso de identidade falsa, incentivo a ataques em escolas |S|outros cibercrimes
+350|famílias de Marília Mendonça, Gabriel Diniz e Cristiano Araújo, homem de 22 anos preso|divulgação ilegal de fotos e vídeos dos corpos dos artistas mortos|nesta segunda-feira (17)|Twitter e redes sociais|falta de controle sobre imagens sensíveis e desrespeito à memória das vítimas|compartilhamento indiscriminado de conteúdo obtido ilegalmente |S|outros cibercrimes
+351|vítimas de crimes cibernéticos, países signatários da Convenção|promulgação da Convenção sobre o Crime Cibernético para reforçar a proteção de dados e cooperação internacional|na semana passada (sem data específica)|âmbito internacional (internet, dispositivos digitais)|vulnerabilidades em sistemas e falta de legislação harmonizada|estabelecimento de crimes cibernéticos, troca de informações entre países, persecução penal |N|
+352|Superior Tribunal Militar (STM), tenente brigadeiro Francisco Joseli Parente Camelo|ataque cibernético de negação de serviço (DDoS) ao portal do STM|16 de março|portal do STM (sistema online)|vulnerabilidade de sistemas judiciais a sobrecarga de acessos|ataque com robôs gerando 1,8 milhão de requisições para derrubar o portal |S|outros cibercrimes
+353|potenciais vítimas de phishing e desinformação, criminosos cibernéticos|uso indevido do ChatGPT para phishing, desinformação e criação de códigos maliciosos|nesta segunda-feira (27)|plataforma ChatGPT e outras ferramentas de IA|vulnerabilidades na verificação de conteúdo gerado por IA|exploração do ChatGPT para textos realistas, propagação de narrativas falsas e geração de códigos maliciosos |S|outros cibercrimes
+354|vítimas de crimes cibernéticos (crianças, adolescentes, instituições financeiras), Polícia Federal|combate a crimes sexuais infantis e fraudes bancárias com novas tecnologias|não especificado (projetos em andamento)|ambiente digital (internet, sistemas bancários, redes criminosas)|crescimento e sofisticação dos crimes cibernéticos|uso de ferramentas tecnológicas avançadas, cooperação internacional, cruzamento de dados |S|outros cibercrimes
+355|vítimas de golpes financeiros, criminosos usando identidade de empresas/escritórios|golpe do Pix via WhatsApp com falsificação de identidade empresarial|casos recentes (sem data exata)|WhatsApp (canal de comunicação)|vazamento de dados sigilosos e falta de verificação de identidade|uso de nomes/logotipos de empresas reais, envio de documentos falsificados, pressão por transferências via Pix |S|cibercrime bancario
+357|portadores de cartões de crédito, grupo hacker Prilex|fraude em pagamentos por aproximação forçando inserção do cartão em máquinas infectadas|versões identificadas desde novembro de 2022|máquinas de cartão infectadas|exploração de vulnerabilidades em sistemas de pagamento|instalação de vírus via falsas atualizações, bloqueio seletivo de transações por aproximação, roubo de dados ao inserir o cartão |S|cibercrime bancario
+358|usuários do Bilhete Único (13 milhões de cadastros), SPTrans|vazamento de dados cadastrais sensíveis de usuários|dados referentes a abril/2020, ataque identificado em 15/06|sistemas da SPTrans|vulnerabilidades nos sistemas de proteção de dados|ataque cibernético resultando em exposição de informações pessoais e credenciais de acesso |S|outros cibercrimes
+359|vítimas de stalking (perseguição), Apple (fabricante do AirTag)|uso indevido do AirTag para perseguição e rastreamento não consentido|processo judicial apresentado em 5/12 (sem ano especificado)|dispositivos AirTag (geolocalização via Bluetooth)|falta de alertas eficazes contra rastreamento abusivo|dispositivo originalmente projetado para localizar objetos, mas usado para monitorar pessoas sem consentimento |S|outros cibercrimes
